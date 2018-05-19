@@ -1,6 +1,6 @@
 /include/
-./pip-selfcheck.json
-./pyvenv.cfg
+pip-selfcheck.json
+pyvenv.cfg
 /lib/
 /bin/
 .idea/
